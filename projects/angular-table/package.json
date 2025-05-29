@@ -1,6 +1,6 @@
 {
   "name": "@guiexpert/angular-table",
-  "version": "19.1.56",
+  "version": "19.1.57",
   "peerDependencies": {
     "@angular/common": "^19.0.0",
     "@angular/core": "^19.0.0"
