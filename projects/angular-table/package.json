@@ -1,6 +1,6 @@
 {
   "name": "@guiexpert/angular-table",
-  "version": "19.1.58",
+  "version": "19.1.60",
   "peerDependencies": {
     "@angular/common": "^19.0.0",
     "@angular/core": "^19.0.0"
@@ -10,7 +10,7 @@
   },
   "scripts": {
     "git-config": "git config --global url.\"https://\".insteadOf ssh://",
-    "npm-pub:angular-table": "npm publish ../../dist/angular-table --access public --tag latest"
+    "npm-pub:angular-table": "npm publish ../../dist/angular-table --access public --tag a19"
   },
   "sideEffects": false
 }
